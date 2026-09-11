@@ -2,6 +2,8 @@
 
 A monolithic full-stack platform for practicing low-level design, submitting solutions, and receiving structured AI-assisted feedback.
 
+## Live-Demo: https://drive.google.com/file/d/1blbLb1cZoLHC8qVPOY5lsS7klopHpy0R/view?usp=sharing
+
 ## Setup
 
 - Node.js 18 or newer
